@@ -11,7 +11,7 @@ prometheus_folder_name: "prometheus-{{ prometheus_version }}.linux-amd64"
 
 prometheus_binary_name: "prometheus"
 
-prometheus_binary_location: "/usr/local/bin"
+prometheus_binary_location: "/usr/local/bin/"
 
 prometheus_configuration_directory: "/etc/prometheus"
 
